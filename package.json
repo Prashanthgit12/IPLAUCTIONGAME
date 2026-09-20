@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Premium Real-Time Cricket Auction Platform",
   "scripts": {
+    "start": "cd backend && npm start",
+    "build": "cd backend && npm install",
     "dev:backend": "cd backend && npm run dev",
     "dev:frontend": "cd frontend && npm run dev",
     "seed": "cd backend && npm run seed"
