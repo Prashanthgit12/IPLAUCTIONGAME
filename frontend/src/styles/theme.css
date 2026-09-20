@@ -1,0 +1,45 @@
+:root {
+  /* Core Background Colors */
+  --bg-primary: #060b17;
+  --bg-secondary: #0a1324;
+  --bg-tertiary: #0f1c36;
+  --card-bg: rgba(15, 26, 48, 0.78);
+  --card-bg-hover: rgba(20, 36, 68, 0.85);
+  --card-border: rgba(255, 255, 255, 0.08);
+  --card-border-highlight: rgba(0, 240, 255, 0.3);
+
+  /* Broadcast Accent Colors */
+  --accent: #00f0ff;
+  --accent-secondary: #2979ff;
+  --accent-glow: rgba(0, 240, 255, 0.35);
+  --gold: #ffb300;
+  --gold-glow: rgba(255, 179, 0, 0.4);
+  --gold-gradient: linear-gradient(135deg, #ffd54f 0%, #ffb300 50%, #ff8f00 100%);
+  --success: #00e676;
+  --success-glow: rgba(0, 230, 118, 0.3);
+  --danger: #ff1744;
+  --danger-glow: rgba(255, 23, 68, 0.4);
+
+  /* Text Colors */
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --text-dark: #0f172a;
+
+  /* Typography */
+  --font-display: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Shadows & Glassmorphism */
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --card-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.4);
+  --card-shadow-hover: 0 20px 40px -10px rgba(0, 0, 0, 0.6);
+  --neon-blue-glow: 0 0 20px rgba(0, 240, 255, 0.25);
+  --neon-gold-glow: 0 0 25px rgba(255, 179, 0, 0.3);
+
+  /* Spacing & Borders */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+}

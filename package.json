@@ -1,0 +1,13 @@
+{
+  "name": "auctionx-platform",
+  "version": "1.0.0",
+  "description": "Premium Real-Time Cricket Auction Platform",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": ["cricket", "auction", "ipl", "realtime", "socketio", "react"],
+  "author": "",
+  "license": "ISC"
+}
